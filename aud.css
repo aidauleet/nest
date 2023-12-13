@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+}
+.top{
+    width: 100%;
+    height: 100px;
+    background-color: #23252b;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.crunchyLogo{
+    width: 136px;
+    height: 26px;
+    position: relative;
+    margin-left: 30px;
+
+}
+.TopLeft{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#names{
+    padding-left: 35px;
+    color: #787878;
+    font-size: large;
+}
+#special{
+    margin-right: 10px;
+    padding-left: 35px;
+    color: #dadada;
+    font-size: large;
+
+}
+.imgg{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.blogo{
+    width: 550px;
+    height: 220px;
+    position: relative;
+    padding-top:150px;
+
+}
+.baba{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 550px;
+    height: 100%;
+    padding-left: 100px;
+}
+.sub{
+    padding-top: 20px;
+    color: rgb(161, 161, 161);
+    margin-left: 40px;
+}
+.idk{
+    color: white;
+    padding-left: 35px;
+}
+.box{
+    margin-top: 30px;
+    color: black;
+    background-color: rgb(255, 105, 51);
+    width: 230px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+}
+.urt{
+    width: 200px;
+    height: 10px;
+    padding-top: 70px;
+}
+.newE{
+    color: white;
+    font-size: xx-large;
+    padding-top: 70px;
+}
